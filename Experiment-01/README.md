@@ -28,7 +28,7 @@ The diagram includes entities such as:
 ## ER Diagram
 The complete handwritten ER diagram is available in the PDF below.
 
-[View Experiment 01 PDF](./Experiment-01.pdf)
+[View Experiment 01 PDF](./DBMS Experiment-1.pdf)
 
 ## Conclusion
 Designed an ER diagram representing the entities, attributes, and relationships of an Indian e-commerce platform.
